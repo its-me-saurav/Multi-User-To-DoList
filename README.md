@@ -8,7 +8,7 @@
 
 • Stores the list of work user want to do,and when any work is done user can easily delete it from their list and can edit the list if required.
 
-Stack used -
+Tech Stack used -
 
 Front-end : HTML, CSS and Bootstrap(Framework)
 
